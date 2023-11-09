@@ -51,10 +51,10 @@ body {
 .address-info .link-address {
   color: #434455;
   font-size: 16px;
-  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
+  font-style: normal;
 }
 .address-item .link-address:hover {
   color: #404bbf;
