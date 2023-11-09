@@ -48,6 +48,9 @@ body {
 }
 
 /* Address */
+.address-info {
+  font-style: normal;
+}
 .address-info .link-address {
   color: #434455;
   font-size: 16px;
