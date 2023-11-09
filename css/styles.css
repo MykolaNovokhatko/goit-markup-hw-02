@@ -1,6 +1,8 @@
 /* Body */
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 /* Header */
@@ -46,10 +48,11 @@ body {
 }
 
 /* Address */
-.address-item .link-address {
+.address-info .link-address {
   color: #434455;
   font-size: 16px;
   font-style: normal;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
